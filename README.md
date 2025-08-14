@@ -15,8 +15,6 @@
 
 - [Meu portfólio](https://soares-j.github.io/Portfolio)
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [E-mail](mailto:joaogabrielbarreiros2004@gmail.com)
+- [E-mail] - joaogabrielbarreiros2004@gmail.com
 
 ---
-
-*Vamos transformar dados em soluções!*
