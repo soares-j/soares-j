@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**soares-j/soares-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência da Computação**  
+💻 Apaixonado por tecnologia, programação e análise de dados  
+📊 Buscando oportunidades de estágio em análise de dados
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Experiência com **Python**, **Java**, **Desenvolvimento Web** e **MySQL**
+- Focado em automação, web e ciência de dados
+- Sempre aprendendo e compartilhando conhecimento
+- Confira meus projetos em destaque nos repositórios!
+
+## Contato
+
+- [Meu portfólio](https://soares-j.github.io/Portfolio)
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [E-mail](mailto:joaogabrielbarreiros2004@gmail.com)
+
+---
+
+*Vamos transformar dados em soluções!*
