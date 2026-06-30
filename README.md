@@ -1,8 +1,8 @@
-# Olá! 👋
+# Olá! 
 
-🎓 **Estudante de Ciência da Computação**  
-💻 Apaixonado por tecnologia, programação e análise de dados  
-📊 Buscando oportunidades de estágio em análise de dados
+ **Estudante de Ciência da Computação**  
+Apaixonado por tecnologia, programação e análise de dados  
+Buscando oportunidades de estágio em análise de dados
 
 ## Sobre mim
 
