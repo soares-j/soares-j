@@ -59,7 +59,7 @@ Jogo simples de Jokenpo desenvolvido em Java para prática de lógica de program
 [Repositório](https://github.com/soares-j/JokenpoGame)
 
 ### grongos
-Projeto em desenvolvimento para अभ्यास e aprendizado de desenvolvimento web.
+Projeto em desenvolvimento e aprendizado de desenvolvimento web.
 
 [Repositório](https://github.com/soares-j/grongos)
 
