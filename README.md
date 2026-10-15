@@ -1,6 +1,6 @@
 # João Gabriel Soares Barreiros
 
-Estudante de Ciência da Computação com foco em Análise de Dados, BI, SQL, Python e Power BI.
+Estagiário em dados com foco em Análise de Dados, BI, SQL, Python, Power BI e SAP.
 
 Tenho experiência prática com criação de dashboards, automação de relatórios em Excel/VBA e acompanhamento de indicadores operacionais. Também desenvolvo projetos em Python, Java e desenvolvimento web, unindo lógica de programação, análise e tecnologia.
 
@@ -25,6 +25,7 @@ Ao longo da minha formação, desenvolvi projetos acadêmicos e pessoais que env
 - Java
 - MySQL
 - HTML / CSS / JavaScript
+- SAP
 
 ---
 
