@@ -4,8 +4,6 @@ Estagiário em dados com foco em Análise de Dados, BI, SQL, Python, Power BI e 
 
 Tenho experiência prática com criação de dashboards, automação de relatórios em Excel/VBA e acompanhamento de indicadores operacionais. Também desenvolvo projetos em Python, Java e desenvolvimento web, unindo lógica de programação, análise e tecnologia.
 
-Busco oportunidades de estágio ou júnior na área de Dados.
-
 ---
 
 ## Sobre mim
